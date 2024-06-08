@@ -1,0 +1,25 @@
+{
+    "articles": [
+        { 
+            "id": 1,
+            "author": "Juli Clover",
+            "title": "Apple Watch Double Tap Feature Highlighted in Latest Apple Ad",
+            "description": "Apple today shared a funny new ad that focuses on the Double Tap feature available on the Apple Watch. In the spot, a man catches a giant fish and while he attempts to wrangle it, he is able to use Double Tap to trigger the Apple Watch to take a photo on a co…",
+            "url": "https://www.macrumors.com/2024/06/07/apple-watch-double-tap/"
+        },
+        {
+            "id": 2,
+            "author": "Tim Hardwick",
+            "title": "Apple to Announce 'Apple Intelligence' Opt-In AI Service at WWDC",
+            "description": "Apple will announce its new AI feature set for Apple devices at WWDC on June 10, and Bloomberg's Mark Gurman reports that it will be officially called \"Apple Intelligence.\"\n\n\n\n\n\nThe opt-in AI capabilities will be coming to iOS 18, iPadOS 15, and macOS 15. The…",
+            "urlToImage": "https://images.macrumors.com/t/uT16fDbqseRqBk6g2Vr834gFxXU=/1600x/article-new/2024/03/wwdc-2024-apple-park.jpg"
+        },
+        {
+            "id": 3,
+            "author": "Mitchel Broussard",
+            "title": "Best Apple Deals of the Week: Get $100 Off Apple Watch Series 9 Plus Low Prices on AirPods",
+            "description": "Amazon had one of the week's best Apple deals, with $100 off a huge collection of Apple Watch Series 9 models. While some of these have since expired, there are still plenty of aluminum and stainless steel models on sale at this steep discount, and you'll als…",
+            "urlToImage": "https://images.macrumors.com/t/UTzZsicB4zYEQAh8Cf3ec3v53sg=/2500x/article-new/2022/06/Hero0004.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Home": {
+        "Title": "This is page with articles about ....",
+        "Subtitle": "This demo uses Next.js and the next-intl package to create a multi-language website. We later also explore how it works with Hygraph.",
+        "CallToAction": "Read about us"
+    },
+    "About": {
+        "Title": "About this demo",
+        "paragraphs": {
+            "paragraph1": "This demonstration highlights the robust capabilities of the next-intl package, a premier internationalization framework designed for Next.js applications. By synergizing with Hygraph, this package delivers an all-encompassing toolkit for crafting multilingual websites. Key features include sophisticated app router integration, full support for static site generation (SSG) to enhance performance and SEO, and innovative navigation solutions that cater to a global audience.",
+            "paragraph2": "Beyond showcasing the technical synergies between next-intl and Hygraph, this demo elucidates how these tools collectively facilitate the development of multi-language platforms. They streamline the internationalization process, making it more accessible for developers to implement complex linguistic features, while ensuring users enjoy a fluid, intuitive browsing experience across diverse language settings."
+        }
+    }
+}

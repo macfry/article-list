@@ -1,0 +1,25 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "author": "Juli Clover",
+            "title": "Funkcja podwójnego dotknięcia Apple Watch wyróżniona w najnowszej reklamie Apple",
+            "description": "Apple udostępnił dziś nową, zabawną reklamę, która koncentruje się na funkcji Double Tap dostępnej w Apple Watch. W spocie mężczyzna łapie ogromną rybę i próbując ją zwalczyć, może użyć Double Tap aby uruchomić Apple Watch w celu zrobienia zdjęcia na co…",
+            "url": "https://www.macrumors.com/2024/06/07/apple-watch-double-tap/"
+        },
+        {
+            "id": 2,
+            "author": "Tim Hardwick",
+            "title": "Apple ogłosi na WWDC usługę AI Opt-In 'Apple Intelligence'",
+            "description": "Apple ogłosi swój nowy zestaw funkcji sztucznej inteligencji dla urządzeń Apple 10 czerwca podczas WWDC, a Mark Gurman z Bloomberg donosi, że będzie on oficjalnie nosił nazwę „Apple Intelligence”.\n\n\n\n\n \nOpcjonalne możliwości AI będą dostępne w systemach iOS 18, iPadOS 15 i macOS 15…",
+            "urlToImage": "https://images.macrumors.com/t/uT16fDbqseRqBk6g2Vr834gFxXU=/1600x/article-new/2024/03/wwdc-2024-apple-park.jpg"
+        },
+        {
+            "id": 3,
+            "author": "Mitchel Broussard",
+            "title": "Najlepsze oferty tygodnia Apple: zyskaj 100 USD zniżki na Apple Watch Series 9 Plus po niskich cenach na AirPods",
+            "description": "Amazon miał jedną z najlepszych ofert Apple w tym tygodniu, obejmującą 100 dolarów zniżki na ogromną kolekcję modeli Apple Watch Series 9. Chociaż niektóre z nich już minęły, w tym sklepie nadal jest mnóstwo modeli z aluminium i stali nierdzewnej duża zniżka, a ty także…",
+            "urlToImage": "https://images.macrumors.com/t/UTzZsicB4zYEQAh8Cf3ec3v53sg=/2500x/article-new/2022/06/Hero0004.jpg"
+        }
+    ]
+}
